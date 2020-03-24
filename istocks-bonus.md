@@ -1,9 +1,6 @@
 # Bonus: Stock Trader Live
 
-[Solution code can be found here.](https://git.generalassemb.ly/ga-wdi-exercises/react-router-lab/tree/solution-routing-apis
-
-
-In this portion of the lab, your stock tracking app will be communicating with the following API:
+In this portion of the lab, your stock tracking app will be pull stock data from the following API:
 
 - [https://financialmodelingprep.com](https://financialmodelingprep.com/developer/docs/most-actives-stock-market-data-free-api/)
 
