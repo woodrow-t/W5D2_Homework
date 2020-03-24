@@ -26,4 +26,4 @@ If a user clicks on one of the stocks listed in the Dashboard view, they should 
 
 If a user clicks on "About" in the navigation bar, they should be directed to an about page. This is just a static page that displays a description of your app.
 
-## Bonus: 
+## Bonus: istocks-bonus.md
