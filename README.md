@@ -2,7 +2,7 @@
 
 ### 1. TBD - EST TIME: 1.5hr
 
-- TBD
+- Create the [iStocks app](./istocks.md)
 - Submit a link to your project as a pull request to this repo
 
 ### 2. Read The Following - EST TIME: < 40min
