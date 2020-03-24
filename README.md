@@ -12,7 +12,7 @@
 
 ### 3. Algo Practice - EST TIME: 20min
 
-- Work through this [algorithm]() 
+- Work through this [algorithm](w05-d2-algo-hw.md) 
 
 ### 4.  Interview Practice - EST TIME: 20min
 
