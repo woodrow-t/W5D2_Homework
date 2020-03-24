@@ -16,6 +16,8 @@ No matter what route the user is visiting, they should always see a navigation b
 
 If a user visits `/stocks` or clicks "Home" in the navigation bar, they should be directed to a dashboard page. This page should list all of the stocks that the user is tracking, specifically their `name` and `symbol`. These stocks should be pulled from [`/data/stock-data.json`](/data/stock-data.json).
 
+[https://i.imgur.com/NP4mznx.png](https://i.imgur.com/NP4mznx.png)
+
 ## 3. Stock (`/stocks/:symbol`)
 
 If a user clicks on one of the stocks listed in the Dashboard view, they should be directed to an individual stock show view. This view should display all of a stock's attributes.
