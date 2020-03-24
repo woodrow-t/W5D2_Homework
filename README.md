@@ -7,7 +7,7 @@
 
 ### 2. Read The Following - EST TIME: < 40min
 
-- Read:[React Context](https://daveceddia.com/usecontext-hook/) - 15min
+- Read: [React Context](https://daveceddia.com/usecontext-hook/) - 15min
 - Watch: [DNA Algo - 5 Solution](https://www.youtube.com/watch?v=HFFkaEVtIss&t=3s) - 13min
 
 ### 3. Algo Practice - EST TIME: 20min
