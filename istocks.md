@@ -1,6 +1,6 @@
 # React Router
 
-Fork and clone this [CodeSandbox](https://codesandbox.io/s/istocks-starter-9wb38)
+Spin a new react up using create-react-app
 
 Look over the working [Solution](https://vhixt.csb.app/) and examine the app in React Dev Tools to see if you can elicit the structure so that you have a starting point for you app. 
 
