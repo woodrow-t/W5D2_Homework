@@ -4,7 +4,7 @@ Spin a new react up using create-react-app
 
 Look over the working [Solution](https://vhixt.csb.app/) and examine the app in React Dev Tools to see if you can elicit the structure so that you have a starting point for you app. 
 
-This version of the application should use hard-coded stocks data, which you can find in [`./stock-data.json`](/data/stock-data.json). however if you want to leverage pulling data from an API you can sign up for an API key and use [https://financialmodelingprep.com/](https://financialmodelingprep.com/)
+This version of the application should use hard-coded stocks data, which you can find in [`stock-data.json`](./stock-data.js). however if you want to leverage pulling data from an API you can sign up for an API key and use [https://financialmodelingprep.com/](https://financialmodelingprep.com/)
 
 Your stock tracking app should have the following features...
 
