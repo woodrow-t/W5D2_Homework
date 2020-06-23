@@ -3,7 +3,7 @@
 ### 1. TBD - EST TIME: 1.5hr
 
 - Create the [iStocks app](./istocks.md)
-- Submit a link to your project as a pull request to this repo
+- When completed submit your homework [here](https://docs.google.com/forms/u/3/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform?usp=send_form). 
 
 ### 2. Read The Following - EST TIME: < 40min
 
@@ -16,8 +16,6 @@
 
 ### 4.  Interview Practice - EST TIME: 20min
 
-1. Create a new Google Doc called ***Tech Interview Questions** and turn sharing on.
-2. Add and answer the following question: 
-   - **What is React Context and how is it used in React ? Give one or more examples..**.
-3. All answers must be at least a paragraph in length however the more you write the more you have to talk about.
-4. If you haven't already done so, add a link to the Tech column in following [spreadheet](https://docs.google.com/spreadsheets/d/1S9-poFULhpext3xjNmuU1g-raZGKkFrODEACrIRFLi0/edit#gid=0) to your shared google doc.
+- Add and answer the following question: **What is React Context and how is it used in React ? Give one or more examples..**.
+- All answers must be at least a paragraph in length however the more you write the more you have to talk about.
+
