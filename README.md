@@ -10,6 +10,10 @@
 - Read: [React Context](https://daveceddia.com/usecontext-hook/) - 15min
 - Watch: [DNA Algo - 5 Solution](https://www.youtube.com/watch?v=HFFkaEVtIss&t=3s) - 13min
 
+**BONUS**
+Watch Videos 3 & 4 on useContext and useReducer => [React Playlist](https://www.youtube.com/playlist?list=PLY6oTPmKnKbb5sh681mrY7u3Hm1g5ecze)
+
+
 ### 3. Algo Practice - EST TIME: 30min
 
 - Work through this [algorithm](w05-d2-algo-hw.md) 
