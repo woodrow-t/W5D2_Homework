@@ -1,6 +1,6 @@
 # W05D02-HW
 
-### 1. TBD - EST TIME: 1.5hr
+### 1. TBD - EST TIME: 2hr
 
 - Create the [iStocks app](./istocks.md)
 - When completed submit your homework [here](https://docs.google.com/forms/u/3/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform?usp=send_form). 
@@ -10,7 +10,7 @@
 - Read: [React Context](https://daveceddia.com/usecontext-hook/) - 15min
 - Watch: [DNA Algo - 5 Solution](https://www.youtube.com/watch?v=HFFkaEVtIss&t=3s) - 13min
 
-### 3. Algo Practice - EST TIME: 20min
+### 3. Algo Practice - EST TIME: 30min
 
 - Work through this [algorithm](w05-d2-algo-hw.md) 
 
